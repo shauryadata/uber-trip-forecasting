@@ -20,7 +20,7 @@ This project analyzes and forecasts hourly Uber trip demand in NYC using machine
 
 ## 🔍 Key Insights
 
-* **Evening peaks**: Most Uber activity occurs between 5–8 PM
+* **Evening peaks**: Most Uber activity occurs between 5 - 8 PM
 * **Weekly trend**: Fridays and Saturdays have the highest demand
 * **Modeling takeaway**: XGBoost outperforms Prophet on high-frequency hourly data
 
@@ -49,7 +49,5 @@ This project analyzes and forecasts hourly Uber trip demand in NYC using machine
 ## Contact
 
 Feel free to connect via GitHub or LinkedIn for feedback or collaboration!
-
----
 
 > Made by [@shauryadata](https://github.com/shauryadata)
