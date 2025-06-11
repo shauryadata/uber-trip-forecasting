@@ -60,4 +60,5 @@ elif view == "Model Evaluation":
     XGBoost captures high-frequency demand shifts better. Prophet provides interpretable trends.
     """)
 
-    st.image("comparison_plot.png", caption="Actual vs Predicted (XGBoost vs Prophet)")
+    st.image("comparison_xgboost_only.png", caption="XGBoost: Actual vs Predicted (First 100 Hours)")
+
