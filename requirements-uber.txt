@@ -1,4 +1,7 @@
+cmdstanpy
 streamlit
 pandas
 matplotlib
+plotly
 prophet
+
