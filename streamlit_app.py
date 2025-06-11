@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 from prophet import Prophet
 
 st.set_page_config(layout="wide")
