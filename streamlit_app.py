@@ -61,4 +61,6 @@ elif view == "Model Evaluation":
     """)
 
     st.image("comparison_xgboost_only.png", caption="XGBoost: Actual vs Predicted (First 100 Hours)")
+    st.image("comparison_xgboost_vs_prophet.png", caption="Actual vs XGBoost vs Prophet (First 100 Hours)")
+
 
