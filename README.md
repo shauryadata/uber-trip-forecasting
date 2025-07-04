@@ -5,7 +5,7 @@ This project analyzes and forecasts hourly Uber trip demand in New York City usi
 ---
 
 ## 🚀 Live App  
-🔗 [Launch Uber Forecast Dashboard]([https://your-streamlit-app-link-here.com](https://uber-trip-forecasting-ewcnitrzgihwss84tyvkhx.streamlit.app/))
+🔗 [Streamlit Dashboard](https://uber-trip-forecasting-ewcnitrzgihwss84tyvkhx.streamlit.app/)
 
 ---
 
